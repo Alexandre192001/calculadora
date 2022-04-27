@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Calculadora</title>
   <link rel="stylesheet" href="style/index.css">
-  <script src="index.js"></script>
+  <script defer src="index.js"></script>
 </head>
 <body>
 
@@ -22,23 +22,23 @@
       </div>
       <div class="numbers-calculadora">
 
-        <button class="btn-number reset">C</button>
+        <button class="btn-number reset" >C</button>
         <button class="btn-number delete"><</button>
-        <button class="btn-number dividir">/</button>
-        <button class="btn-number multi">*</button>
-        <button class="btn-number menos">-</button>
-        <button class="btn-number mais">+</button>
-        <button class="btn-number virgula">.</button>
-        <button class="btn-number zero">0</button>
-        <button class="btn-number um">1</button>
-        <button class="btn-number dois">2</button>
-        <button class="btn-number tres">3</button>
-        <button class="btn-number quatro">4</button>
-        <button class="btn-number cinco">5</button>
-        <button class="btn-number seis">6</button>
-        <button class="btn-number sete">7</button>
-        <button class="btn-number oito">8</button>
-        <button class="btn-number nove">9</button>
+        <button class="btn-number dividir" onclick="insert('/')">/</button>
+        <button class="btn-number multi" onclick="insert('*')">X</button>
+        <button class="btn-number menos"  onclick="insert('-')">-</button>
+        <button class="btn-number mais"  onclick="insert('+')">+</button>
+        <button class="btn-number virgula"  onclick="insert(',')">.</button>
+        <button class="btn-number zero" onclick="insert('0')">0</button>
+        <button class="btn-number um" onclick="insert('1')">1</button>
+        <button class="btn-number dois" onclick="insert('2')">2</button>
+        <button class="btn-number tres" onclick="insert('3')">3</button>
+        <button class="btn-number quatro" onclick="insert('4')">4</button>
+        <button class="btn-number cinco" onclick="insert('5')">5</button>
+        <button class="btn-number seis" onclick="insert('6')">6</button>
+        <button class="btn-number sete" onclick="insert('7')">7</button>
+        <button class="btn-number oito" onclick="insert('8')">8</button>
+        <button class="btn-number nove" onclick="insert('9')">9</button>
         <button class="btn-number igual">=</button>  
       </div>
 
