@@ -16,7 +16,7 @@
 <hr>
 <h2>⚜️Funcionalidades:⚜️</h2>
 <ul>
-<li>Após colocar  o número e o sinal de operação, só apertar no sinal de igual, para que seja realizada à conta</li>
+<li>Após colocar  o número e o sinal de operação, só apertar no sinal de igual, para que seja realizada à operação.</li>
 </ul>
 <hr>
 LINK: https://calculadora-simples-alexandre.netlify.app/
