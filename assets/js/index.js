@@ -42,12 +42,12 @@ function calculate() {
 
 document.getElementById("copyToClipboard").addEventListener("click", function (ev) {
   const button = ev.currentTarget
-  if (button.innerText === "Copy") {
-    button.innerText = "Copied!"
+  if (button.innerText === "Copiar") {
+    button.innerText = "Copiado!"
     button.classList.add("success")
     navigator.clipboard.writeText(resultInput.value)
   } else {
-    button.innerText = "Copy"
+    button.innerText = "Copiar"
     button.classList.remove("success")
   }
 })
