@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "sass": "^1.55.0"
+  },
+  "name": "calculadora",
+  "description": "<h1>Calculadora</h1>\r <hr>\r <h2>Linguagens Utilizadas:</h2>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "sass": "sass --watch assets/scss/style.scss:assets/style/index.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexandre192001/calculadora.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexandre192001/calculadora/issues"
+  },
+  "homepage": "https://github.com/Alexandre192001/calculadora#readme"
+}
