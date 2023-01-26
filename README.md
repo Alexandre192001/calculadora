@@ -1,4 +1,4 @@
-<h1>Calculadora</h1>
+<h1>Calculadora Simples</h1>
 <hr>
 <h2>Linguagens Utilizadas:</h2>
 
@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
 </div>
-
-
 
 <hr>
 <h2>⚜️Descriçao⚜️</h2>
@@ -19,4 +17,14 @@
 <li>Após colocar  o número e o sinal de operação, só apertar no sinal de igual, para que seja realizada à operação.</li>
 </ul>
 <hr>
-LINK: https://calculadora-simples-alexandre.netlify.app/
+<h2>⚜️Como iniciar o projeto:⚜️</h2>
+<p>Se você quiser testar ou usar este projeto em sua máquina pessoal, clone este repositório seguindo o passo a passo à seguir:</p>
+<ul>
+<li>Abra o prompt do vscode;</li>
+<li>Escreva - git clone https://github.com/Alexandre192001/calculadora/</li>
+<li>cd calculadora</li>
+<li>npm install</li>
+</ul>
+<hr>
+URL Demo : https://calculadora-simples-alexandre.netlify.app/
+
