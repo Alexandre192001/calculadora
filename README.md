@@ -1,4 +1,4 @@
-<h1>Calculadora Simples</h1>
+<h1>Calculadora </h1>
 <hr>
 <h2>Linguagens Utilizadas:</h2>
 
